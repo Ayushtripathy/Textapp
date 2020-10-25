@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825345807956",
+    "firebase_url": "https://textapp-70081.firebaseio.com",
+    "project_id": "textapp-70081",
+    "storage_bucket": "textapp-70081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825345807956:android:28fcf39e26bddb53deffc1",
+        "android_client_info": {
+          "package_name": "com.example.Textapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825345807956-a0mah6j8prqpp63lijq5s205av0vvl3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlBHyk13-kFVxQDMuLS1NuZKqQhNeBIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825345807956-a0mah6j8prqpp63lijq5s205av0vvl3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
